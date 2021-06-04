@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react';  
 import './Aside.css';
 
 class Aside extends Component {
@@ -11,4 +11,4 @@ class Aside extends Component {
   }
 }
 
-export default Aside;
+export default Aside;//exports component to use elsewhere
