@@ -10,5 +10,5 @@ class SectionMain extends Component {
     );
   }
 }
-
+// creating our sectionMain component
 export default SectionMain;
