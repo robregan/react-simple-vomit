@@ -9,7 +9,7 @@ class Header extends Component {
       backgroundColor: this.props.backColor // kinda have an idea 
     }
     return (
-        <header style={style} className="Header-main">// a little confusing still 
+        <header style={style} className="Header-main"> // used in app.js set explicit styles.
         </header>
 
     );
